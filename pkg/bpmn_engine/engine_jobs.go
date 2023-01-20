@@ -1,12 +1,12 @@
 package bpmn_engine
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 	"time"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/activity"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/activity"
 )
 
 type job struct {

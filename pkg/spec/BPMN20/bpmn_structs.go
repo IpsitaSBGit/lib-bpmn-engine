@@ -1,6 +1,6 @@
 package BPMN20
 
-import "github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/extensions"
+import "github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/extensions"
 
 type TDefinitions struct {
 	Id                 string     `xml:"id,attr"`

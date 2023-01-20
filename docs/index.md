@@ -14,7 +14,7 @@ Also, the engine is not agnostic to any high availability approaches, like multi
 
 See [Getting Started](./getting-started.md)
 
-There's an experimental **online playground** https://nitram509.github.io/lib-bpmn-engine-js/ available,
+There's an experimental **online playground** https://ipsitasbgit.github.io/lib-bpmn-engine-js/ available,
 which leverages the great power of cross-compiling to WASM.
 
 

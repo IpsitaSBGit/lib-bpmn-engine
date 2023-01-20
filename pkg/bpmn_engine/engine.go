@@ -3,13 +3,13 @@ package bpmn_engine
 import (
 	"errors"
 	"fmt"
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
 	"time"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/exporter"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/activity"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine/exporter"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/activity"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 )
 
 type BpmnEngine interface {

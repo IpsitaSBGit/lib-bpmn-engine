@@ -36,7 +36,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine"
 )
 
 func initBpmnEngine() {

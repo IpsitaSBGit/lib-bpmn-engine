@@ -1,10 +1,10 @@
 package bpmn_engine
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
 	"time"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 )
 
 type ProcessInstanceInfo struct {

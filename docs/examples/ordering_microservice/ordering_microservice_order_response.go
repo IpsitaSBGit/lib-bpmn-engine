@@ -3,7 +3,7 @@ package main
 import (
 	_ "embed"
 	"encoding/json"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 	"time"
 )
 

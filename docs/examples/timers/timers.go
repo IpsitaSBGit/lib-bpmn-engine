@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 	"time"
 )
 

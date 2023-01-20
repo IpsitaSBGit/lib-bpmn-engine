@@ -1,6 +1,6 @@
 package bpmn_engine
 
-import "github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20"
+import "github.com/ipsitasbgit/lib-bpmn-engine/pkg/spec/BPMN20"
 
 type taskMatcher func(element *BPMN20.TaskElement) bool
 

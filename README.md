@@ -4,10 +4,10 @@
 
 ## Build status
 
-[![go test status](https://github.com/nitram509/lib-bpmn-engine/actions/workflows/go-test.yml/badge.svg)](https://github.com/nitram509/lib-bpmn-engine/actions/workflows/go-test.yml)
-[![codecov](https://codecov.io/gh/nitram509/lib-bpmn-engine/branch/main/graph/badge.svg?token=J5J6SQ0TPJ)](https://codecov.io/gh/nitram509/lib-bpmn-engine)
-[![Documentation Status](https://readthedocs.com/projects/nitram509-lib-bpmn-engine/badge/?version=latest)](https://nitram509-lib-bpmn-engine.readthedocs-hosted.com/en/latest/?badge=latest)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nitram509/lib-bpmn-engine)](https://goreportcard.com/report/github.com/nitram509/lib-bpmn-engine)
+[![go test status](https://github.com/ipsitasbgit/lib-bpmn-engine/actions/workflows/go-test.yml/badge.svg)](https://github.com/ipsitasbgit/lib-bpmn-engine/actions/workflows/go-test.yml)
+[![codecov](https://codecov.io/gh/ipsitasbgit/lib-bpmn-engine/branch/main/graph/badge.svg?token=J5J6SQ0TPJ)](https://codecov.io/gh/ipsitasbgit/lib-bpmn-engine)
+[![Documentation Status](https://readthedocs.com/projects/ipsitasbgit-lib-bpmn-engine/badge/?version=latest)](https://ipsitasbgit-lib-bpmn-engine.readthedocs-hosted.com/en/latest/?badge=latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ipsitasbgit/lib-bpmn-engine)](https://goreportcard.com/report/github.com/ipsitasbgit/lib-bpmn-engine)
 
 ## Project status
 
@@ -18,12 +18,12 @@
 ## Documentation
 
 Full documentation with examples: \
-https://nitram509.github.io/lib-bpmn-engine/
+https://ipsitasbgit.github.io/lib-bpmn-engine/
 
 GoDoc: \
-https://pkg.go.dev/github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine
+https://pkg.go.dev/github.com/ipsitasbgit/lib-bpmn-engine/pkg/bpmn_engine
 
-There's an experimental **online playground** https://nitram509.github.io/lib-bpmn-engine-js/ available,
+There's an experimental **online playground** https://ipsitasbgit.github.io/lib-bpmn-engine-js/ available,
 which leverages the great power of cross-compiling to WASM.
 
 ## Requirements
@@ -64,4 +64,4 @@ For information on contribution, please check [CONTRIBUTING.md](./CONTRIBUTING.m
 
 ## Community fun: stargazers over time
 
-[![Stargazers over time](https://starchart.cc/nitram509/lib-bpmn-engine.svg)](https://starchart.cc/nitram509/lib-bpmn-engine)
+[![Stargazers over time](https://starchart.cc/ipsitasbgit/lib-bpmn-engine.svg)](https://starchart.cc/ipsitasbgit/lib-bpmn-engine)
