@@ -6,7 +6,7 @@ require (
 	github.com/antonmedv/expr v1.9.0
 	github.com/bwmarrin/snowflake v0.3.0
 	github.com/corbym/gocrest v1.0.5
-	github.com/hazelcast/hazelcast-go-client clc
+	github.com/hazelcast/hazelcast-go-client v1.3.1-0.20230111070749-b4bde993f70e
 	github.com/senseyeio/duration v0.0.0-20180430131211-7c2a214ada46
 	google.golang.org/protobuf v1.28.1
 )
